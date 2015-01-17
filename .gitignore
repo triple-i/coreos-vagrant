@@ -1,5 +1,5 @@
 .vagrant/
 log/
-data/
+data/*
 !data/.gitkeep
 user-data
