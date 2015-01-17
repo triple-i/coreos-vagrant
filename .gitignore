@@ -1,4 +1,5 @@
 .vagrant/
 log/
+data/
+!data/.gitkeep
 user-data
-config.rb
