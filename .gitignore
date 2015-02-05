@@ -1,5 +1,5 @@
 .vagrant/
 log/
-data/*
-!data/.gitkeep
+share/*
+!share/.gitkeep
 user-data
