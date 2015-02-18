@@ -45,4 +45,4 @@ $update_channel = "stable"
 # Setting for VirtualBox VMs
 #$vb_gui = false
 #$vb_memory = 1024
-#$vb_cpus = 1
+$vb_cpus = 2
