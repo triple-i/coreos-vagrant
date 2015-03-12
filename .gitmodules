@@ -1,9 +1,0 @@
-[submodule "share/configs"]
-	path = share/configs
-	url = https://github.com/triple-i/TripleI.ServerConfigs
-[submodule "share/TripleI.ServerConfigs2"]
-	path = share/TripleI.ServerConfigs2
-	url = https://github.com/triple-i/TripleI.ServerConfigs
-[submodule "share/TripleI.ServerConfigs"]
-	path = share/TripleI.ServerConfigs
-	url = https://github.com/triple-i/TripleI.ServerConfigs
