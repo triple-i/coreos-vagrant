@@ -7,7 +7,8 @@ TripleI 用の CoreOS Vagrant です。
 TripleI.ServerConfigs を share ディレクトリ内にクローンします。
 
 ```
-$ git clone https://github.com/triple-i/TripleI.ServerConfigs.git share/
+$ cd coreos-vagrant/share
+$ git clone https://github.com/triple-i/TripleI.ServerConfigs.git 
 ```
 
 ## Vagrant up
